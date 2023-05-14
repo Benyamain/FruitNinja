@@ -11,6 +11,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Lemon
       objectReference: {fileID: 0}
+    - target: {fileID: 1220464040351291729, guid: 682de8b136588eb43971705e822037e7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4630f1412f3006e4ebe9f02014b6ed76, type: 2}
     - target: {fileID: 3591961873985230955, guid: 682de8b136588eb43971705e822037e7, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
