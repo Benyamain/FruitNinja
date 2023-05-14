@@ -247,6 +247,8 @@ MonoBehaviour:
   minForce: 18
   maxForce: 22
   maxLifetime: 5
+  bombChance: 0.05
+  bombPrefab: {fileID: 1232955805961806726, guid: 7aa57012cac162e458d1f4dcb463e9e7, type: 3}
 --- !u!4 &453909719
 Transform:
   m_ObjectHideFlags: 0
