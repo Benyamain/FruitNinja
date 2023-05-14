@@ -8,7 +8,7 @@ public class Blade : MonoBehaviour
     private Collider bladeCollider;
     private Camera mainCamera;
     public Vector3 direction {get; private set;}
-    public float minSliceVelocity = 0.01f;
+    public float minSliceVelocity = 0.01f, sliceForce = 5f;
     private TrailRenderer bladeTrail;
 
     private void Awake() {

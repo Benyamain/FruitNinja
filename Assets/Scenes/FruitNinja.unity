@@ -654,6 +654,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minSliceVelocity: 0.01
+  sliceForce: 5
 --- !u!4 &1930472860
 Transform:
   m_ObjectHideFlags: 0
